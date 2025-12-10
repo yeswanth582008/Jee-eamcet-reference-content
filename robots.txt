@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bright-medovik-04d47a.netlify.app/sitemap.xml
